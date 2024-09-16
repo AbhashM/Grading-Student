@@ -1,0 +1,15 @@
+﻿'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Users\anujm\source\repos\FA2023_PROJECT_Mahto\x64\Debug\FA2023_PROJECT_Mahto.exe'. Symbols loaded.
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x120 has exited with code 0 (0x0).
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'FA2023_PROJECT_Mahto.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x2b78 has exited with code 0 (0x0).
+The thread 0x4704 has exited with code 0 (0x0).
+The program '[3596] FA2023_PROJECT_Mahto.exe' has exited with code 0 (0x0).
