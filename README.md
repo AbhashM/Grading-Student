@@ -1,0 +1,1 @@
+•	C++ application that helps to calculate the numeric grade and determine the letter grade of students based on the 7 score types of Quizzes, Homework, Labs, Projects, Teamwork, Discussion Topics, and Tests.
